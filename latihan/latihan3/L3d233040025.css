@@ -1,0 +1,48 @@
+body {
+    background-image: url(background.png);
+    background-repeat: repeat-x;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 60px;
+    color: darkblue;
+    font-family: Comic Sans MS;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+    font-style: italic;
+}
+
+p {
+    text-align: justify;
+}
+
+.paragraf-1 {
+    color: darkorange;
+    text-align: center;
+}
+.paragraf-2 {
+    text-align: right;
+}
+
+.paragraf-2 a:hover{
+    background-color: blue;
+    color: white;
+}
+
+.a1 {
+    font-variant-caps: petite-caps;
+    color: red;
+
+}
+
+.a2 {
+    font-weight: bold;
+}
